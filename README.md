@@ -190,6 +190,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - 🌎 [ReBillion.ai](tc.rebillion.ai/) - AI-powered transaction coordination and workflow automation for real estate professionals
 - 🌎 [Perch Reader](perch.app/) - Free blog and newsletter aggregator with AI summaries and text-to-speech
 - 🌎 [X-doc AI](x-doc.ai/) - The most accurate AI translator
+- 🌎 [Tudo](https://blynkai.app/tudo/) - AI task manager for iPhone that turns voice notes, screenshots, shared content, and goals into organized tasks.
 
 
 ### Meeting assistants
